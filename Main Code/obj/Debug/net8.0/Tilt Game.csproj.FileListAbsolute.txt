@@ -1,0 +1,14 @@
+D:\University\Algorithms !!!!!\6 Project\Tilt Game\Tilt Game\bin\Debug\net8.0\Tilt Game.exe
+D:\University\Algorithms !!!!!\6 Project\Tilt Game\Tilt Game\bin\Debug\net8.0\Tilt Game.deps.json
+D:\University\Algorithms !!!!!\6 Project\Tilt Game\Tilt Game\bin\Debug\net8.0\Tilt Game.runtimeconfig.json
+D:\University\Algorithms !!!!!\6 Project\Tilt Game\Tilt Game\bin\Debug\net8.0\Tilt Game.dll
+D:\University\Algorithms !!!!!\6 Project\Tilt Game\Tilt Game\bin\Debug\net8.0\Tilt Game.pdb
+D:\University\Algorithms !!!!!\6 Project\Tilt Game\Tilt Game\obj\Debug\net8.0\Tilt Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Algorithms !!!!!\6 Project\Tilt Game\Tilt Game\obj\Debug\net8.0\Tilt Game.AssemblyInfoInputs.cache
+D:\University\Algorithms !!!!!\6 Project\Tilt Game\Tilt Game\obj\Debug\net8.0\Tilt Game.AssemblyInfo.cs
+D:\University\Algorithms !!!!!\6 Project\Tilt Game\Tilt Game\obj\Debug\net8.0\Tilt Game.csproj.CoreCompileInputs.cache
+D:\University\Algorithms !!!!!\6 Project\Tilt Game\Tilt Game\obj\Debug\net8.0\Tilt Game.dll
+D:\University\Algorithms !!!!!\6 Project\Tilt Game\Tilt Game\obj\Debug\net8.0\refint\Tilt Game.dll
+D:\University\Algorithms !!!!!\6 Project\Tilt Game\Tilt Game\obj\Debug\net8.0\Tilt Game.pdb
+D:\University\Algorithms !!!!!\6 Project\Tilt Game\Tilt Game\obj\Debug\net8.0\Tilt Game.genruntimeconfig.cache
+D:\University\Algorithms !!!!!\6 Project\Tilt Game\Tilt Game\obj\Debug\net8.0\ref\Tilt Game.dll
